@@ -7,7 +7,7 @@
 - Python、Go造轮子
 - 今天又是鸽的一天.
 
-Blog: [xiaokou.top](https://xiaokou.top)  
+Blog: [xiaokou.top](https://susec.me)  
 Team: [EDI](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzIzMTQ4NzE2Ng==&scene=124#wechat_redirect)  
 Twitter: [@suanve](https://twitter.com/suanve)  
 Telegram: [@realsuan](https://t.me/realsuan)
