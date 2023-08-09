@@ -8,6 +8,5 @@
 - 今天又是鸽的一天.
 
 Blog: [susec.me](https://susec.me)  
-Team: [EDISEC]
 Twitter: [@suanve](https://twitter.com/suanve)  
-
+Team: EDISEC <br />
